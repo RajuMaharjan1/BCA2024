@@ -1,0 +1,95 @@
+.container{
+    width: 90%;
+    height: 590px;
+    border: 10px solid black;
+    margin: auto;
+}
+.header{
+    width: 96%;
+    min-height: 800px;
+    margin: auto;
+    
+    margin-top: 10px;
+    
+}
+.header .header-container{
+    width: 100%;
+    height: 50px;
+    background: green;
+        
+}
+.header .box{
+    display: flex;
+    justify-content: space-between;
+}
+.header .box .box1{
+    width: 623px;
+    height: 400px;
+    margin-top: 10px;
+    background: red;
+
+}
+.header .box .box2{
+    width: 623px;
+    height: 400px;
+    margin-top: 10px;
+    background: white;
+  
+    
+}
+.box .box2 .body{
+    display: flex;
+    justify-content: space-between;
+}
+.box .box2 .body .bbox1{
+    width: 307px;
+    height: 195px;
+    background: blue;
+
+}
+.box .box2 .body .bbox2{
+    width: 307px;
+    height: 195px;
+    background: red;
+
+}
+
+.box .box2 .bbox3{
+    width: 307px;
+    height: 195px;
+    background: yellow; 
+    margin-top: 10px;
+    float: left;
+  
+}
+.box .box2 .bbox4{
+    width: 307px;
+    height: 195px;
+    background: black;
+    margin-top: 10px;
+    float: right;
+}
+.body-container{
+    display: flex;
+    justify-content: space-between;
+}
+.body-container .box1{
+    width: 74.5%;
+    height: 50px;
+    background: green;
+    margin-top: 10px;
+   
+}
+.body-container .box2{
+    width: 24.4%;
+    height: 50px;
+    background: blue;
+    margin-top: 10px;
+    
+}
+.last{
+    width: 100%;
+    height: 50px;
+    margin-top: 10px;
+    background: black;
+}

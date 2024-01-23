@@ -1,0 +1,30 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background: blue;
+    float: left;
+}
+.box1{
+    width: 200px;
+    height: 200px;
+    background: rgb(255, 166, 0);
+    float: left;
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background: rgb(255, 0, 242);
+    float: left;
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    background: rgb(158, 158, 171);
+    float: left;
+}
+.box4{
+    width: 200px;
+    height: 200px;
+    background: rgb(170, 71, 5);
+    float: left;
+}

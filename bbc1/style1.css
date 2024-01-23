@@ -1,0 +1,48 @@
+.container {
+    position: relative;
+    width: 99%;
+    height: 750px;
+    background: white;
+    border: 10px solid black;
+    align-self: center;
+  }
+  
+  .box {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    color: white;
+    
+
+  }
+  
+  .box1 {
+    background-color: red;
+    z-index: 1;
+    width: 400px;
+    height: 300px;
+    margin-left: 500px;
+
+  }
+  
+  .box2 {
+    background-color: blue;
+    left: 100px;
+    top: 150px;
+    z-index: 2;
+    width: 200px;
+    height: 300px;
+    margin-left: 500px;
+  }
+  
+ .box3 {
+    background-color: green;
+    left: 50px;
+    top: 450px;
+    z-index: 3;
+    width: 300px;
+    height: 300px;
+    margin-left: 500px;
+  }
+  
+  

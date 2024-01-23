@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: space-between; /* Adjust this property for different spacing */
+  }
+  
+  /* Styling for each individual div */
+  .box {
+    width: 200px;
+    height: 100px;
+    background-color: #3e0505;
+    /* Add margin or padding for separation */
+    margin: 10px; /* Adjust this for the desired space */
+  }

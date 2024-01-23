@@ -1,0 +1,41 @@
+.box1{
+  width: 1260;
+  height: 50px;
+  background: rgb(255, 166, 0);
+}
+.box2{
+  width: 725px;
+  height: 306px;
+  background: rgb(255, 0, 242);
+  float: left;
+}
+.box3{
+  width: 725px;
+  height: 140px;
+  background: red;
+  float: right;
+}
+.box4{
+  width: 725px;
+  height: 140px;
+  background: blue;
+  float: right;
+}
+.container {
+  display: flex;
+  justify-content: space-between; /* Adjust this property for different spacing */
+}
+
+/* Styling for each individual div */
+.box {
+  width: 390px;
+  height: 200px;
+  background-color: #3e0505;
+  /* Add margin or padding for separation */
+  margin: 20px; /* Adjust this for the desired space */
+}
+.box8{
+  width: 1260;
+  height: 50px;
+  background: rgb(255, 166, 0);
+}
